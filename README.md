@@ -1,3 +1,3 @@
 # group-project
 
-consider yourself __edited__
+**consider yourself** __edited__
