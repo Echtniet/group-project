@@ -46,9 +46,9 @@
 								<th>Name</th>
 								<th>Score</th>
 							</tr>
-							<tr>
-								<td></td>
-								<td></td>
+							<tr v-for="student in students">
+								<td>{{ student.name }}</td>
+								<td>{{ student.score }}</td>
 							</tr>
 						</table>
 					</div>
